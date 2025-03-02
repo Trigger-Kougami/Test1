@@ -1,0 +1,25 @@
+# Unreal Engine 生成文件
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/Build/
+/.vs/
+/.vscode/
+
+# 平台特定文件（按需调整）
+/*.sln
+/*.xcodeproj
+/*.xcworkspace
+
+# 本地临时文件
+*.log
+*.suo
+*.sdf
+*.opendb
+*.user
+*.backup
+
+# 其他通用忽略项
+.DS_Store
+Thumbs.db
